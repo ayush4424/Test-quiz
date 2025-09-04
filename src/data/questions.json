@@ -1,0 +1,82 @@
+{
+  "Engineer": [
+    {
+      "question": "Which IIT did Sundar Pichai graduate from?",
+      "options": ["IIT Bombay", "IIT Kharagpur", "IIT Delhi", "IIT Madras"],
+      "answer": "IIT Kharagpur",
+      "fact": "Sundar Pichai studied Metallurgical Engineering at IIT Kharagpur before moving to Stanford."
+    }
+  ],
+  "Doctor": [
+    {
+      "question": "Dr. Devi Shetty is famous for which specialization?",
+      "options": ["Cardiology", "Neurology", "Orthopedics", "Dermatology"],
+      "answer": "Cardiology",
+      "fact": "Dr. Devi Shetty is a world-renowned cardiac surgeon and founder of Narayana Health."
+    }
+  ],
+  "Lawyer": [
+    {
+      "question": "Fali Nariman, a famous Indian lawyer, specialized in which field?",
+      "options": ["Corporate Law", "Constitutional Law", "Criminal Law", "Tax Law"],
+      "answer": "Constitutional Law",
+      "fact": "Fali Nariman argued many landmark constitutional cases in the Supreme Court of India."
+    }
+  ],
+  "Army Officer": [
+    {
+      "question": "Sam Manekshaw graduated from which academy?",
+      "options": ["NDA", "IMA", "OTA", "Defence Services Staff College"],
+      "answer": "IMA",
+      "fact": "Field Marshal Sam Manekshaw was in the first batch of the Indian Military Academy, Dehradun."
+    }
+  ],
+  "Scientist": [
+    {
+      "question": "Which ISRO scientist is known as the 'Missile Man of India'?",
+      "options": ["Homi Bhabha", "Vikram Sarabhai", "A.P.J. Abdul Kalam", "K. Sivan"],
+      "answer": "A.P.J. Abdul Kalam",
+      "fact": "Dr. Kalam played a key role in India's missile and space programs."
+    }
+  ],
+  "Teacher": [
+    {
+      "question": "Dr. Sarvepalli Radhakrishnan, former President of India, was a teacher of which subject?",
+      "options": ["Physics", "Philosophy", "History", "Mathematics"],
+      "answer": "Philosophy",
+      "fact": "His birthday, 5th September, is celebrated as Teacher's Day in India."
+    }
+  ],
+  "Politician": [
+    {
+      "question": "Which movement made Mahatma Gandhi a national leader?",
+      "options": ["Civil Disobedience", "Dandi March", "Champaran Satyagraha", "Quit India"],
+      "answer": "Champaran Satyagraha",
+      "fact": "The Champaran Satyagraha of 1917 was Gandhi's first satyagraha in India."
+    }
+  ],
+  "Athlete": [
+    {
+      "question": "Milkha Singh was popularly known as?",
+      "options": ["The Sprint King", "The Flying Sikh", "Track Legend", "The Golden Runner"],
+      "answer": "The Flying Sikh",
+      "fact": "He earned the nickname after his legendary performances in track events."
+    }
+  ],
+  "Artist": [
+    {
+      "question": "Raja Ravi Varma is famous for which form of art?",
+      "options": ["Sculpture", "Oil Painting", "Dance", "Music"],
+      "answer": "Oil Painting",
+      "fact": "Raja Ravi Varma is celebrated for bringing Indian mythological themes into oil painting."
+    }
+  ],
+  "Entrepreneur": [
+    {
+      "question": "Which company was co-founded by Narayana Murthy?",
+      "options": ["TCS", "Infosys", "Wipro", "HCL"],
+      "answer": "Infosys",
+      "fact": "Infosys is one of India's largest IT companies, founded in 1981."
+    }
+  ]
+}
