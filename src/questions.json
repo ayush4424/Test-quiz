@@ -1,0 +1,44 @@
+{
+  "engineer": [
+    {
+      "question": "Which IIT did Sundar Pichai attend before going to Stanford?",
+      "options": [
+        { "answer": "IIT Kharagpur", "isCorrect": true },
+        { "answer": "IIT Bombay", "isCorrect": false },
+        { "answer": "IIT Delhi", "isCorrect": false },
+        { "answer": "IIT Kanpur", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which company did Satya Nadella become CEO of?",
+      "options": [
+        { "answer": "Microsoft", "isCorrect": true },
+        { "answer": "Google", "isCorrect": false },
+        { "answer": "Apple", "isCorrect": false },
+        { "answer": "Amazon", "isCorrect": false }
+      ]
+    }
+  ],
+  "lawyer": [
+    {
+      "question": "Where did Mahatma Gandhi study law?",
+      "options": [
+        { "answer": "Harvard University", "isCorrect": false },
+        { "answer": "Inner Temple, London", "isCorrect": true },
+        { "answer": "Oxford University", "isCorrect": false },
+        { "answer": "Cambridge University", "isCorrect": false }
+      ]
+    }
+  ],
+  "army": [
+    {
+      "question": "Who was the first Field Marshal of India?",
+      "options": [
+        { "answer": "Sam Manekshaw", "isCorrect": true },
+        { "answer": "K. M. Cariappa", "isCorrect": false },
+        { "answer": "Bipin Rawat", "isCorrect": false },
+        { "answer": "R. C. Dutt", "isCorrect": false }
+      ]
+    }
+  ]
+}
